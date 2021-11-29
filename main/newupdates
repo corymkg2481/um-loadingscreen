@@ -1,0 +1,39 @@
+Added
+- Fake Plates
+- Staff FIB Badges (Still needs some work)
+- Hunting Rifle Ammo to Hunting Store
+- Private Vehicle Sales Contracts to City Hall
+
+Fixed
+- Bug where you could search trash while in a vehicle.
+- Clothing Store bug where you couldn't select 0 or -1 on clothing items.
+- Chicken Job Bug where you would jump out of your vehicle if pressing E.
+- Scratch Ticket in Vehicle Bug
+- Vehicle Repair Kit distance
+- Ability to lockpick, search and hotwire vehicle at the same time
+- Test Drive Bug where screen would go black
+- Black Bar over Minimap when Text Message is Received
+- Missing Clothing Textures
+- Missing Clothing Items
+- Launcher (Redownload from FAQ)
+- Running in Place During Character Creation
+- Dealership Images
+
+Updated
+- Criminal Tablet
+
+Adjusted
+- EMS System Language Adjustment
+- Paycheck Notification
+- Loading Screen Music
+- Lower Pillbox Door Locks
+- fc3s, bentleygt, and vantager vehicle handling
+- Mechanic Items are now reusable
+- Vehicle Pricing for Jeep SRT8 and Trackhawk
+- Glovebox and Trunk Sizes
+
+Changed
+- Chatbox to use Character Name rather than Steam Name
+
+Removed
+- Outdated, unused Resources
