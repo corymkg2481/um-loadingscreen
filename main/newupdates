@@ -1,39 +1,50 @@
 Added
-- Fake Plates
-- Staff FIB Badges (Still needs some work)
-- Hunting Rifle Ammo to Hunting Store
-- Private Vehicle Sales Contracts to City Hall
+- Some more Dealership Images
+- Persistent Vehicles
+- Hotwire Minigame
+- Transaction Logging for Most if not all Scripts (Bank System)
+- Restaurant Items and System (Not yet Completed) (SoonTM)
+- DOJ License System
+- SAMS Vehicle Naming in Garage
+- Silver Sell Spot to Mining Buyer
+- IPL Optimization
+- Door Locks
+- Hunting Rifle Ammo to Shop
+- Pillbox Bottom Door Locks
+- Hunting Meat is now Edible
+- Some new Hair and one Mask
 
 Fixed
-- Bug where you could search trash while in a vehicle.
-- Clothing Store bug where you couldn't select 0 or -1 on clothing items.
-- Chicken Job Bug where you would jump out of your vehicle if pressing E.
-- Scratch Ticket in Vehicle Bug
-- Vehicle Repair Kit distance
-- Ability to lockpick, search and hotwire vehicle at the same time
-- Test Drive Bug where screen would go black
-- Black Bar over Minimap when Text Message is Received
-- Missing Clothing Textures
-- Missing Clothing Items
-- Launcher (Redownload from FAQ)
-- Running in Place During Character Creation
-- Dealership Images
+- EMS System to now Require Items
+- Admin Car Keys
+- Paycheck Notifications
+- License Shop Bug
+- SAMS Vehicles
+- Clothing System Bug
+- Chat System to Use Character Name
+- Scratch Tickets
+- Car Washes
+- Fuel System
+- Mountain Spawn Bug
+- Chicken Job Bug where you Jump out of Vehicle
+- Time Weather Sync Issue
+- Dealership Typo
+- Test Drive Vehicle Functions
+- Public Crafting Table Access Issue
+- Door Lock Bug
 
 Updated
-- Criminal Tablet
+- Jail System (Hopefully Black Screen is Fixed)
 
 Adjusted
-- EMS System Language Adjustment
-- Paycheck Notification
-- Loading Screen Music
-- Lower Pillbox Door Locks
-- fc3s, bentleygt, and vantager vehicle handling
-- Mechanic Items are now reusable
-- Vehicle Pricing for Jeep SRT8 and Trackhawk
-- Glovebox and Trunk Sizes
-
-Changed
-- Chatbox to use Character Name rather than Steam Name
+- Resized Dealership Images for Faster Load Times
+- Updated Ban Message to Include Appeal Link
+- Notifications System and Notifications on Multiple Scripts
+- Mining System Diamond Item
+- Vehicle Radio Station on Enter Vehicle
+- Some Vehicle Pricing
 
 Removed
-- Outdated, unused Resources
+- Old Vehicle System
+- Ability to Lockpick with Command
+- Revolver and Switchblade from Shops until Fixed
