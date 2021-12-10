@@ -1,38 +1,13 @@
-Added
-- oxmysql - Faster DB Calling Connection (Configuration Coming Soon)
-- Christmas and Some Requested Hair and EUP
-- Sunshine Auto Garage
-- Optimized Luxart Vehicle Control
-- New Engine Toggle System
-
-Optimized
-- Medical System
-- Drunk System
-- Police Job
-- Trash Search
-- Time and Weather Sync
-- Nearest Postal
-- Fishing Job
-- Fishing Blips
-- No Reticle Script
-
 Fixed
-- Impound Persistent Issue
-- A bug with Hotwiring
-- Carry Option in Radial Menu
-
-Updated
-- Drug System
-- Evidence System
+- Bank Truck Heist
+- Missing Hairs
 
 Adjusted
-- Trucking Job to allow for Hired Workers to Complete Contracts Faster
+- Resized Vehicle Textures for Performance Reasons
+- Ammo Capacity
+
+Changed
+- Merged Some Scripts together
 
 Removed
-- Duplicate Apartment Shell
-- Underperforming XMAS MLOs
-- Underperforming Luxart Vehicle Control
-- Old Engine Toggle System
-- Emote Keybinds (If this is wanted please let me know, this was just due to optimization, but i can re-add it as it wasnt the much of an increase)
-- Broken "Press E to Enter Drivers Side" system
-- Bike Rental
+- Unused Scripts
