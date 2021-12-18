@@ -1,13 +1,31 @@
+Added
+- /livery #
+- /extra #
+
 Fixed
-- Bank Truck Heist
-- Missing Hairs
+- Fire Extinguishers Alerting Police
+- Prison Bugs
+- Trash Can Looting
+- Weapon Degradation
+- Epinephrin Usage for EMS
+- Weed Selling
+- Visual Bug with LS Customs
+- PC Job not paying Out
+- EMS Death Screen Typo
+- Bank Trucks
+- EMS + PD Blips
+
+Updated
+- Smoking System (New Feature type /earcig )
 
 Adjusted
-- Resized Vehicle Textures for Performance Reasons
-- Ammo Capacity
+- Phone to use PMA Voice
+- Radio to use PMA Voice
 
 Changed
-- Merged Some Scripts together
+- Voice System from Mumble VOIP to PMA Voice
+- Car HUD (As of right now, there isn't a way in the hud to see your ID, start using = to view your ID)
 
 Removed
-- Unused Scripts
+- Persistent Vehicles through the City
+- Altruists Camp Garage
